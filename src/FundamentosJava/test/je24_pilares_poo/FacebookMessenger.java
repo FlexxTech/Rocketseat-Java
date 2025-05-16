@@ -1,4 +1,4 @@
-package je24_pilares_poo;
+package FundamentosJava.test.je24_pilares_poo;
 
 public class FacebookMessenger extends ServicoMensagemInstantanea {
     @Override

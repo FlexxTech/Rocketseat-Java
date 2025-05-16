@@ -1,4 +1,4 @@
-package je13.test;
+package FundamentosJava.test;
 
 import java.util.Scanner;
 
